@@ -14,7 +14,8 @@ module.exports = {
       main_eighty: '#DEDBF9',
       slate: 'rgb(248,250,252)',
       white: 'rgb(255,255,255)',
-      black: '#3A3B3C'
+      black: '#3A3B3C',
+      gray: '#737373'
     }
   },
   plugins: [],
