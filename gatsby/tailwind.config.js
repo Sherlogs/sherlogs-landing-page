@@ -4,7 +4,7 @@ module.exports = {
     extend: {
       fontFamily: {
         source_sans: ["'Source Sans Pro', sans-serif"],
-      },
+      }
     },
     colors: {
       main: '#5A4AE3',
