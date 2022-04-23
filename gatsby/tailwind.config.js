@@ -15,7 +15,8 @@ module.exports = {
       slate: 'rgb(248,250,252)',
       white: 'rgb(255,255,255)',
       black: '#3A3B3C',
-      gray: '#737373'
+      gray: '#737373',
+      ltGray: '#B3B3B3'
     }
   },
   plugins: [],
