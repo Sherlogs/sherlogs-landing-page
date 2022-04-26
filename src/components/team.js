@@ -1,8 +1,8 @@
 import React from "react";
 import crystal from '../assets/profile_pic_cp.png'
 import andres from '../assets/profile_pic_ag.png'
-import kylene from '../assets/profile_pic_kh.jpeg'
-import felicity from '../assets/profile_pic_fn.jpeg'
+import kylene from '../assets/profile_pic_kh.png'
+import felicity from '../assets/profile_pic_fn.png'
 
 
 export default function Team() {

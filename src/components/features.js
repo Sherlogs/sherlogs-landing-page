@@ -1,5 +1,5 @@
 import React from "react";
-import dockerLogo from '../assets/docker-logo.webp';
+import dockerLogo from '../assets/docker-logo.png';
 
 export default function Features() {
     return(
