@@ -12,6 +12,7 @@ module.exports = {
       main_twenty: '#8C80EB',
       main_fifty: '#ADA5F1',
       main_eighty: '#DEDBF9',
+      secondary: '#0CE9D1',
       slate: 'rgb(248,250,252)',
       white: 'rgb(255,255,255)',
       black: '#3A3B3C',
