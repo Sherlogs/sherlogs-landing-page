@@ -35,7 +35,7 @@ export default function Features() {
             </div>
 
             <div className='flex space-x-5 my-6 w-5/6 rounded-2xl shadow-lg p-8 bg-white'>
-                <img className='px-4 w-2/3' src={quickLogger} alt='quick logger example'></img>
+                <img className='px-4 w-[400px]' src={quickLogger} alt='quick logger example'></img>
                 <div>
                     <h2>Collect logs using our custom logger</h2>
                     <p className='font-normal text-xl pt-4 text-gray'>Add our custom logger to any Node.js application to quickly and easily send logs to Sherlogs.  Customize the log levels and messages you wish to receive.</p>
@@ -44,7 +44,7 @@ export default function Features() {
             </div>
 
             <div className='flex space-x-5 my-6 w-5/6 rounded-2xl shadow-lg p-8 bg-white'>
-                <img className=' px-12 w-1/2' src={dockerLogo} alt='docker-logo'></img>
+                <img className='px-4 w-[400px]' src={dockerLogo} alt='docker-logo'></img>
                 <div>
                     <h2>Run on any computer</h2>
                     <p className='font-normal text-xl pt-4 text-gray'>Sherlogs is containerized with Docker to bring developers the same experience, regardless of your operating system.</p>
