@@ -10,7 +10,7 @@ export default function Home() {
       <div className='flex flex-col items-center bg-gradient-to-b from-darker to-main_fifty p-16'>
         <img className='mt-8 w-1/4' src={logo} alt='logo'></img>
         <h1 className='text-white text-2xl m-8 font-semibold'>View and search through your logs with ease</h1>
-        <a className='border-2 p-2 bg-main_twenty rounded-lg text-white text-xl bg-main_fifty font-semibold' href="https://github.com/oslabs-beta/Sherlogs">Check it out on Github</a>
+        <a className='border-2 p-2 bg-main_eighty rounded-lg text-main text-xl font-semibold' href="https://github.com/oslabs-beta/Sherlogs">Check it out on Github</a>
       </div>
      
       <Features></Features>
